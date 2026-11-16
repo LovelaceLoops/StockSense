@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# StockSense project
+data/raw/
+data/processed/
+mlruns/
+node_modules/
